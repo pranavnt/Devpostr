@@ -1,0 +1,49 @@
+h1 {
+    font-family: "ClearSans", "HelveticaNeue-Bold", "Helvetica Neue Bold", sans-serif;
+    font-weight: bold;
+    font-style: normal;
+    color: #003e54;
+    text-rendering: optimizeLegibility;
+    margin-top: 0.2em;
+    margin-bottom: 0.4em;
+    line-height: 1.2125em;
+    margin-left: 20px;
+}
+
+body {
+    background: white;
+}
+
+p {
+    padding: 20;
+    margin: 20;
+    font-family: "Helvetica Neue", sans-serif;
+    font-weight: normal;
+    font-style: normal;
+    line-height: 1;
+    position: relative;
+    cursor: default;
+    font-size: 1em;
+    line-height: 1.4;
+    margin-bottom: 1.25em;
+    text-rendering: optimizeLegibility;
+    margin-left: 20px;
+}
+
+.blue
+{
+    width: 100vw;
+}
+
+.white
+{
+    width: 100vw;
+}
+
+h2
+{
+    font-family: "ClearSans", "HelveticaNeue-Bold", "Helvetica Neue Bold", sans-serif;
+    font-weight: bold;
+    font-style: normal;
+    color: #ffffff;
+}
